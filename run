@@ -1,0 +1,2 @@
+gcc main.c headers/bitset.c headers/random.c -I ./headers -o program -lm
+./program
